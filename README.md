@@ -9,4 +9,4 @@ Ps. I deliberately do not show what is before the 10th line of code - this is pa
 Ps.2. Lombok Libraries is one of the basic external libraries used in commercial projects. Knowing and using it significantly shortens our code without losing its readability. It's really worth knowing and using it - if we are thinking about commercial programming.
 Ps.3. Moreover, other languages have similar libraries designed to reduce boilerplate code, for Python it is Paprika, and for C# it is AutoFixture.
 More about Lombok can be found on the official website of this project: https://projectlombok.org/
-![image](https://github.com/horeyzer/LOMBOK-TASK/assets/147154747/c43cecea-2ef5-452e-bfb8-55f808f02105)
+![image](https://github.com/horeyzer/LOMBOK-TASK/assets/147154747/5275c728-b280-4161-ad47-701fb08262ce)
